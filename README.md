@@ -1,4 +1,7 @@
-![Website Screenshot](websiteimg.png)
+![image](https://github.com/user-attachments/assets/8dd5df90-00b4-4eb7-9a4b-f1eb7af96b47)
+
+
+
 In this project, you should be able to build the UI of an online food ordering application using HTML, CSS, JavaScript, and Bootstrap. It must allow hotels and restaurants to increase the scope of business by reducing the labour cost involved.
  
 Background of the problem statement:
